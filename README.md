@@ -2,7 +2,7 @@
 Simple lane detection project for Computer Vision Course CSE483 
 <br>Youssef Mohamed Mansi 18P5848<br>
 <br>Seif Ahmed Elsayed Elewa 18P5662<br>
-<br>Seif Muhammad Abdelwahab 18P2158<br>
+Seif Muhammad Abdelwahab 18P2158<br>
 To run project open in terminal 
 <br>for images<br>
 run python main.py input Path Output Path
